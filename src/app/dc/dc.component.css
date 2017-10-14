@@ -1,0 +1,25 @@
+* {
+    
+}
+
+div {
+    width: 700px;
+    margin: 0 auto;
+    padding: 5px;
+    vertical-align: top;
+    border: 2px solid black;
+}
+
+section {
+    width: 400px;
+    min-height: 200px;
+    display: inline-block;
+    text-align: left;
+}
+
+img {
+    vertical-align: top;
+    padding-top: 30px;
+    width: 280px;
+    display: inline-block;
+}
